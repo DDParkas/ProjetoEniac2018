@@ -1,5 +1,5 @@
 # Projeto_eniac_2018
-Projeto desenvolvido por:
+### Projeto desenvolvido por:
 
 Abner Mateus Alves Silva
 
@@ -9,4 +9,4 @@ Abner Mateus Alves Silva
 
 Pedro José Rodrigues Lousa de Lima
 
-### Plágio é crime, de os créditos aos autores!
+### Plágio é crime, dê os créditos aos autores!
