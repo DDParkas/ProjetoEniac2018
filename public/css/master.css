@@ -1,19 +1,61 @@
-* {
-  box-sizing: border-box;
+body {
+  margin: 0 auto;
+  width: 1280px;
 }
 header{
 
-width: 100%;
+width:;
+height: 100px;
 background-color:#e5e5e5;
 padding:15px;
 text-align:center;
 
 }
-/* Para mobiles */
-@media only screen and (max-width:620px){
+.logo{
+background-color: red;
+width:300px;
+height: 100px;
 
-{
-  width:100%;
+
 }
+.menu{
+background-color: blue;
+width: 500px;
+height: 30px;
+margin-left: 750px;
+margin-top: -65px;
+
+
+}
+.login{
+background-color: green;
+width: 100px;
+height: 30px;
+margin-left: 1150px;
+margin-top: -80px;
+
+
+}
+.slide{
+width: 1280px;
+height:59px;
+background-color:yellow;
+
+
+}
+.corpo{
+
+  width: 1280px;
+  height:500px;
+  background-color:pink;
+
+
+
+}
+footer{
+width: 1280px;
+height:1  00px;
+background-color:purple;
+
 
 }
