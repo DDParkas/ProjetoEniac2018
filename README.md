@@ -10,3 +10,7 @@ Abner Mateus Alves Silva
 Pedro José Rodrigues Lousa de Lima
 
 ### Plágio é crime, dê os créditos aos autores!
+
+# Técnologias ultilizadas para esse projeto
+
+ - [Bootstrap](http://getbootstrap.com/docs/4.1/examples/carousel/#)
