@@ -7,7 +7,7 @@
 
 - [Janaina Gonçalves de Sousa Rodrigues](https://github.com/JanainaG)
 
- -Pedro José Rodrigues Lousa de Lima
+ - Pedro José Rodrigues Lousa de Lima
 
 ### Plágio é crime, dê os créditos aos autores!
 
