@@ -9,7 +9,7 @@
 
  - Pedro José Rodrigues Lousa de Lima
 
-### Plágio é crime, dê os créditos aos autores!
+
 
 # Técnologias ultilizadas para esse projeto
 
